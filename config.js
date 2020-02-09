@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://ryopenguin.com',
   pathPrefix: '/',
   title: 'Blog by Ryo Kaneoka',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'まったり暮らしたいプロダクトマネージャーの日記。',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-142748858-2',
   useKatex: false,
   menu: [
     {

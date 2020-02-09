@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 template: "page"
-socialImage: "/media/image-4.jpg"
+socialImage: "/media/image2_portfolio.jpg"
 ---
 
 ![ぽーとふぉりお](/media/image2_portfolio.jpg)
