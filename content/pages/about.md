@@ -4,10 +4,51 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-テストで変えてみる。どうなのか
+![自分について](/media/image-2.jpg)
 
-![にゃんちゅう](/media/image-2.jpg)
+## 何者か
+- 都内の某企業でプロダクトオーナー/プロダクトマネージャーをしている人です。92年生まれ。
+- いろんなサービス考えたり作ったりするのが好き。
+- 趣味はへっぽこなりに個人開発と統計関連のお勉強。デザインも興味あり。
+- AI！ビッグデータ！みたいな流行りモノより渋いサービスが好き。
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+## 興味分野や好きなこと
+- クラフトビール
+- 音楽（DJ、カホン）
+- スタートアップ、海外ウェブサービス
+- 統計
+- 投資（アルゴリズムトレードやってみたい！）
+- オープンデータ・地理関連データ
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+## 職歴
+- 1.メーカー向けIoT新製品開発コンサル
+- 2.広告代理店向けDMP導入＋デジタルマーケティングコンサル
+- 3.機械学習導入コンサル
+- 4.自社製品のプロダクトオーナー/プロダクトマネージャー（現在）
+
+## 触れるツール群
+- （特にウェブ関連の）データ分析・可視化
+  - Google Analytics
+  - Google Tag Manager
+  - Google Data Portal
+  - Tableau
+  - SQL
+  - R
+- 広告運用
+  - Facebook広告
+  - Instagram広告
+  - Google広告
+- 個人開発（へっぽこ）
+  - Django/Python
+  - React
+  - heroku（雰囲気でやってる）
+- デザイン（へっぽこ）
+  - Adobe XD
+  - Figma
+
+## 資格
+- 上級ウェブ解析士
+- Deep Learning For General 2018
+- 統計検定2級
+- 図書館司書
+- 通信販売酒類小売業
