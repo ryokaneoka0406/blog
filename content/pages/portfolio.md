@@ -4,6 +4,8 @@ template: "page"
 socialImage: "/media/image-4.jpg"
 ---
 
+![ぽーとふぉりお](/media/image2_portfolio.jpg)
+
 ## アジェンダ
 - 関わったサービス(本業)
 - 関わったサービス(プライベート)
