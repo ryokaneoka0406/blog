@@ -4,6 +4,11 @@ template: "page"
 socialImage: "/media/image-4.jpg"
 ---
 
+## アジェンダ
+- 関わったサービス(本業)
+- 関わったサービス(プライベート)
+- 執筆歴
+
 ## 関わったサービス(本業)
 ### いいちこ棒
 - 東京カルチャーカルチャーに一時期入っていたIoTペンライト。上に掲げるだけで投票・クイズができる。プロジェクトマネージャーとして参加。実は社会人初仕事だったりする。
@@ -32,3 +37,11 @@ socialImage: "/media/image-4.jpg"
 - クラフトビールのサブスクリプションサービス。同僚だったエンジニアと2人で立ち上げ。国産クラフトビールに限ってやってます。
 - 倉庫開拓、酒販免許取得、オペレーション設計、ブルワリー営業などなどなど、全部自分でやってみた。道半ばだけど楽しいし好きなビールに出会えて最高。
 - [詳細](https://beerletter.penguin-ps.com/)
+
+## 執筆歴
+### DPZ(書いたことあるの地味に自慢。)
+- [自分に合う空間を見つけよう、東京隙間挟まり紀行](https://backnumber.dailyportalz.jp/2013/08/19/d/2.htm)
+- [リコーダー禁煙生活](https://backnumber.dailyportalz.jp/2014/01/12/b/)
+
+### その他
+- [EO data processing and provision service “Starflake”](https://eomag.eu/eo-data-processing-and-provision-service-starflake/)
