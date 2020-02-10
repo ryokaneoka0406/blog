@@ -12,6 +12,8 @@ description: "Buzzfeedの短時間動画/マーケ予実管理/Snowflake"
 socialImage: "/media/everydaynews.jpg"
 ---
 
+![news](/media/everydaynews.jpg)
+
 ### [BuzzFeedがTikTokとインスタ動画用に10代を雇用](https://www.niemanlab.org/2020/02/teen-ambassadors-buzzfeed/)
 Buzzfeedがティーンエイジャーを雇用して短時間動画を配信。Podcastと短時間動画がこれからくるんだろーなーと思っている。イギリスのメディア[Brut.](https://www.brut.media/us)みたいなのもっと流行りそう
 
