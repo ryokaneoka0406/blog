@@ -7,7 +7,7 @@ slug: "movie-marketing-snowflake"
 category: "News"
 tags:
   - "News"
-  - "service"
+  - "Service"
 description: "Buzzfeedの短時間動画/マーケ予実管理/Snowflake"
 socialImage: "/media/everydaynews.jpg"
 ---
