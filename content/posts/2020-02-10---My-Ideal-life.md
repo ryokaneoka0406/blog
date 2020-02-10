@@ -1,6 +1,6 @@
 ---
 title: 自分の考える理想の生活
-date: "2020-02-10"
+date: "2020-02-10 00:00:00"
 template: "post"
 draft: false
 slug: "my-ideal-life"
