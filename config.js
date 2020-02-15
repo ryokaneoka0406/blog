@@ -22,6 +22,10 @@ module.exports = {
     {
       label: 'Portfolio',
       path: '/pages/portfolio'
+    },
+    {
+      label: 'Privacy Policy',
+      path: '/pages/privacy_policy'
     }
   ],
   author: {

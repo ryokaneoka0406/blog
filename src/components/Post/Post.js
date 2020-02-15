@@ -7,6 +7,7 @@ import Content from './Content';
 import Meta from './Meta';
 import Tags from './Tags';
 import ShareButtons from './ShareButtons';
+import AdSense from 'react-adsense';
 import styles from './Post.module.scss';
 import type { Node } from '../../types';
 
@@ -33,6 +34,12 @@ const Post = ({ post }: Props) => {
         <Meta date={date} />
         {tags && tagSlugs && <Tags tags={tags} tagSlugs={tagSlugs} />}
         <Author />
+        <AdSense.Google
+          // 払い出されたcaから始まるコードに置き換える
+          client='ca-pub-9091964379423884'
+          // 広告スロットはまだ作成してないので、空欄でOK
+          slot=''
+        />
       </div>
 
       <div className={styles['post__comments']}>
