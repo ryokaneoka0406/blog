@@ -4,7 +4,6 @@ import Author from './Author';
 import Contacts from './Contacts';
 import Copyright from './Copyright';
 import Menu from './Menu';
-import Adsense from 'react-adsense'
 import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';
 
@@ -22,13 +21,6 @@ const Sidebar = ({ isIndex }: Props) => {
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
-        <script data-ad-client="ca-pub-9091964379423884" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <Adsense.Google
-          // 払い出されたcaから始まるコードに置き換える
-          client='ca-pub-9091964379423884'
-          // 広告スロットはまだ作成してないので、空欄でOK
-          slot=''
-        />
       </div>
     </div>
   );
