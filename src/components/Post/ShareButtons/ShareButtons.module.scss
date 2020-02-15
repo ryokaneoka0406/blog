@@ -1,0 +1,13 @@
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
+
+
+.sharebuttons {
+    &__twitter,
+    &__facebook
+    {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+}

@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://ryopenguin.com',
   pathPrefix: '/',
-  title: 'Blog by Ryo Kaneoka',
+  title: 'ryopenguin blog',
   subtitle: 'まったり暮らしたいプロダクトマネージャーの日記。',
   copyright: '© All rights reserved.',
   disqusShortname: '',
