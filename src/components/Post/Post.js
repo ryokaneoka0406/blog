@@ -34,12 +34,6 @@ const Post = ({ post }: Props) => {
         <Meta date={date} />
         {tags && tagSlugs && <Tags tags={tags} tagSlugs={tagSlugs} />}
         <Author />
-        <AdSense.Google
-          // 払い出されたcaから始まるコードに置き換える
-          client='ca-pub-9091964379423884'
-          // 広告スロットはまだ作成してないので、空欄でOK
-          slot=''
-        />
       </div>
 
       <div className={styles['post__comments']}>
