@@ -29,4 +29,3 @@ Facebookは自ら規制を受けたがってる。うーん。なんかBrexitと
 ### ぼやき
 - 4Qはセミナーを第一チャネルにおいてプロモーションをしていたので、コロナ被害をモロに受ける。全面的にウェビナーに切り替えるアレコレで1日が終わってしまった、、
 - 仕事でオープンデータ関連の調べ物をしています。
-<script async class="speakerdeck-embed" data-id="721f5650827949b69c9796035e67c89c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
