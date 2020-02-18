@@ -20,7 +20,7 @@ JX通信社のコロナ感染マップ。さすがの早さ。日本は検温を
 ### [ベゾスの気候変動ファンド](https://techcrunch.com/2020/02/17/jeff-bezos-announced-a-10-billion-fund-to-fight-climate-change/)
 ビル・ゲイツもやってるけど、世界的な問題は多国籍に活躍してる大富豪とか企業が解決してる印象（Amazonは本当にやる気あるのか？と記事中で批判されてるけど）。国家のプレゼンスが弱まるのだろうか。
 
-[Jupyter Intelligence](https://jupiterintel.com/)という気候変動によるリスク予測サービスなんかもある。
+[Jupiter Intelligence](https://jupiterintel.com/)という気候変動によるリスク予測サービスなんかもある。
 
 ### [ザッカーバーグは規制されたがっている](https://www.bloomberg.co.jp/news/articles/2020-02-17/Q5UYC1T1UM0Z01)
 Facebookは自ら規制を受けたがってる。うーん。なんかBrexitとかトランプ当選以降インターネットが分断されそうで辛い。インターネットは境界がないのがいいところなのに。
