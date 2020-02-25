@@ -1,6 +1,6 @@
 ---
 title: 今日の気になったニュースとサービス（世界一安全な都市の作り方、e-スクーターと）
-date: "2020-02-23 24:00:00"
+date: "2020-02-25 24:00:00"
 template: "post"
 draft: false
 slug: "mobility-and-finance"
