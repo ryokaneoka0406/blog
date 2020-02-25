@@ -8,7 +8,7 @@ category: "News"
 tags:
   - "News"
   - "Service"
-description: "組織図を利用したHRテック。動画広告作成サービス、Amazon広告専用DSP。そしてぼやき。面白いプロダクトが多いな"
+description: "世界一安全な都市の作り方、e-スクーターと、長めのぼやき。"
 socialImage: "/media/everydaynews.jpg"
 ---
 
