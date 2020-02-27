@@ -15,7 +15,7 @@ socialImage: "/media/everydaynews.jpg"
 ### [Unqork](https://www.unqork.com/)
 ノーコードでアプリ開発できるサービス。各種産業向けにテンプレートを用意しているよう（複雑なサービスでもカスタマイズがいらないのが売り！と書いてあった）。この手のサービス、イチユーザーとしていろいろ使ったことあるけどあんまり満足する仕上がりにならないから実は信用していない（だからプログラミングはじめたわけですが）。だいたいWYSIWYGなのが苦手。。
 
-ただ、[GoogleによるAppSheetの買収](https://jp.techcrunch.com/2020/01/15/2020-01-14-google-acquires-appsheet-to-bring-no-code-development-to-google-cloud/))とか、あらゆるブランド/産業でデジタルな接点が重要になってくるとこの手のサービスが重要になってくるはず。日本だと[Yappli](https://yapp.li/))とか。
+ただ、[GoogleによるAppSheetの買収](https://jp.techcrunch.com/2020/01/15/2020-01-14-google-acquires-appsheet-to-bring-no-code-development-to-google-cloud/)とか、あらゆるブランド/産業でデジタルな接点が重要になってくるとこの手のサービスが重要になってくるはず。日本だと[Yappli](https://yapp.li/))とか。
 
 Mary Meekerさん（注：シリコンバレーのVCで、毎年Internet Trendsという凄まじい調査資料を作っている人）がやっているBond Capitalは簡易デザインSaaSのCanvaに[投資](https://techcrunch.com/2019/05/20/graphic-design-platform-canva-valued-at-2-5b-with-new-funds/)していたが、クリエイティブな仕事もどんどん民主化される気がする。
 
