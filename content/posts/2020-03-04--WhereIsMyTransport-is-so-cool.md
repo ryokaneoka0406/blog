@@ -3,7 +3,7 @@ title: 今日の気になったニュースとサービス（エッジ組み込�
 date: "2020-03-04 20:00:00"
 template: "post"
 draft: false
-slug: " "
+slug: "WhereIsMyTransport-is-so-cool"
 category: "News"
 tags:
   - "News"
