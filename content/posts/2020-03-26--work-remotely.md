@@ -12,7 +12,7 @@ socialImage: "/media/austin-distel-gUIJ0YszPig-unsplash.jpg"
 ---
 
 ![remote](/media/austin-distel-gUIJ0YszPig-unsplash.jpg)
-**Photo by Austin Distel on Unsplash**
+*Photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/beer-office?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 ## はじめに
 少し間が空いてしまった。ちょっと疲れているけど私は元気です。
@@ -53,7 +53,7 @@ socialImage: "/media/austin-distel-gUIJ0YszPig-unsplash.jpg"
 
 ### 参考書籍
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/4478105529/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4478105529&linkCode=as2&tag=ryopenguin-22&linkId=5666c4003085514da338937c60cb75e9"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=4478105529&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ryopenguin-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=ryopenguin-22&l=am2&o=9&a=4478105529" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.co.jp/gp/product/4478105529/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4478105529&linkCode=as2&tag=ryopenguin-22&linkId=752b7cdef0781a93c69a1c32d1296adb"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=4478105529&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=ryopenguin-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=ryopenguin-22&l=am2&o=9&a=4478105529" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a target="_blank"  href="https://www.amazon.co.jp/gp/product/4862762603/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4862762603&linkCode=as2&tag=ryopenguin-22&linkId=b0527041b86a236afd182af7c551784b"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=4862762603&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=ryopenguin-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=ryopenguin-22&l=am2&o=9&a=4862762603" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
