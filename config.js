@@ -24,7 +24,7 @@ module.exports = {
       path: '/pages/portfolio'
     },
     {
-      label: 'Privacy Policy',
+      label: 'Privacy policy',
       path: '/pages/privacy_policy'
     }
   ],
