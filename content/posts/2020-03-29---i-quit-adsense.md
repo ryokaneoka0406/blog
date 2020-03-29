@@ -8,7 +8,7 @@ category: "Poem"
 tags:
   - "Poem"
 description: "このブログには広告を貼らないことにした。その経緯。"
-socialImage: "/media/movable-type.jpg"
+socialImage: "/media/jezael-melgoza-layMbSJ3YOE-unsplash.jpg"
 ---
 
 ![remote](/media/jezael-melgoza-layMbSJ3YOE-unsplash.jpg)
