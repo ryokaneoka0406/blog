@@ -11,6 +11,10 @@ description: "このブログには広告を貼らないことにした。その
 socialImage: "/media/movable-type.jpg"
 ---
 
+![remote](/media/jezael-melgoza-layMbSJ3YOE-unsplash.jpg)
+*Photo by [Jezael Melgoza](https://unsplash.com/@jezael?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  on  [Unsplash](https://unsplash.com/s/photos/tokyo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+
 フルカスタマイズ可能なブログ環境なのでAdsenseを入れていたが、デザインが崩れて微妙な気持ちになるのでさくっとやめることにした。収益も数円程度なのでまったくダメージなし。
 
 もともと個人開発サービスに広告入れて少しでも収益化できたらいいかなーと思って審査だけは通したのだが、広告収益を目指すならコンテンツ制作をもっと頑張らないといけない。ブログだけだと厳しいんじゃないかなーというのが現時点の気づき。
