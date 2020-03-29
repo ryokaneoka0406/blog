@@ -1,6 +1,6 @@
 ---
 title: 昨日の気になったニュースとサービス（リモートワークとシニアワーク、ぼやき）
-date: "2020-03-12 9:00:00"
+date: "2020-03-12 09:00:00"
 template: "post"
 draft: false
 slug: "remote-work-and-senior-work"

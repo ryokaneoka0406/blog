@@ -1,6 +1,6 @@
 ---
 title: 今日の気になったニュースとサービス（短時間ニュースメディア、最低年収保証求人、ぼやき）
-date: "2020-03-13 2:00:00"
+date: "2020-03-13 02:00:00"
 template: "post"
 draft: false
 slug: "short-movie-media"

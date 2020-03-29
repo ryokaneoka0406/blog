@@ -1,6 +1,6 @@
 ---
 title: 今日の気になったニュースとサービス（個人の資産管理、 チャットアンケート、旅行産業、ぼやき）
-date: "2020-03-18 0:00:00"
+date: "2020-03-18 24:00:00"
 template: "post"
 draft: false
 slug: "chat-and-survey"

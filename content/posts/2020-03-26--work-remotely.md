@@ -1,6 +1,6 @@
 ---
 title: コロナウィルスによって変わった仕事の仕方と日常について
-date: "2020-03-26 8:00:00"
+date: "2020-03-26 08:00:00"
 template: "post"
 draft: false
 slug: "work-remotely"

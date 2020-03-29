@@ -1,6 +1,6 @@
 ---
 title: 今日の気になったニュースとサービス（エッジ組み込み、途上国交通データ、DjangoとOpenCVで作ったデモ）
-date: "2020-03-04 20:00:00"
+date: "2020-03-05 24:00:00"
 template: "post"
 draft: false
 slug: "WhereIsMyTransport-is-so-cool"

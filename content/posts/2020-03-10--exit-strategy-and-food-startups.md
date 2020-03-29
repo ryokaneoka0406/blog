@@ -1,6 +1,6 @@
 ---
 title: 昨日の気になったニュースとサービス（Exit戦略への批判とシェフのマーケットプレース）
-date: "2020-03-10 9:00:00"
+date: "2020-03-10 09:00:00"
 template: "post"
 draft: false
 slug: "exit-strategy-and-food-startups"
