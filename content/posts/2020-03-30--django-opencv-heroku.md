@@ -13,7 +13,7 @@ socialImage: "/media/everydaynews.jpg"
 ---
 
 ## TL;DR
-- [画像加工くん](https://gazokako.dev/))というウェブサービスをDjangoで実装、herokuにデプロイして無料・独自ドメインで運営しはじめた（ドメイン購入費は別、あとGoogle Cloud Storageが数円かかるかも？という範囲）。
+- [画像加工くん](https://gazokako.dev/)というウェブサービスをDjangoで実装、herokuにデプロイして無料・独自ドメインで運営しはじめた（ドメイン購入費は別、あとGoogle Cloud Storageが数円かかるかも？という範囲）。
 - その時に見た参照した情報をまとめておく（書いてくださったみなさま、ありがとうございました）。サービス化のためにやった工夫も少し書いている。
 - 当然ネット上のHow toは調整しないとそのまま使えない。大した機能のないサービスでもデプロイするためにはものすごくたくさんのインプットが必要だった。ちょっと論文に似ている。
 
@@ -24,7 +24,7 @@ socialImage: "/media/everydaynews.jpg"
 - 余談：学習＋開発の進め方
 
 ## サービスの概要
--  [画像加工くん](https://gazokako.dev/))
+-  [画像加工くん](https://gazokako.dev/)
 - 画像をアップロードすると白黒化か顔判別＋モザイク処理ができるウェブサービス
 - 開発期間：2ヶ月
 - 使用技術：Django/OpenCV/heroku/Bootstrap4/Cloudflare/Google cloud storage
