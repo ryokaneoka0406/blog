@@ -24,7 +24,7 @@ socialImage: "/media/everydaynews.jpg"
 ## [AirBnBのオンライン体験](https://www.airbnb.jp/s/experiences/online)
 AirBnBには元々旅先で現地の人と何かアクティビティができるメニューがあったが、これがオンライン化。AirBnBのミッションにも合致している気がする。かなり感動した。
 
-[AirBnBの創業ストーリー本](https://www.amazon.co.jp/gp/product/B071F38ZXZ/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B071F38ZXZ&linkCode=as2&tag=ryopenguin-22&linkId=ff9daa37e81db3fe14611cb4910bb457))がかなり好きなのだが、読むとこのサービスがいかにAirBnBの価値観と整合しているかがわかる。同時に収益もなんとかしているし、、プロダクトマネージャー、めっちゃ優秀なんだろうな。。
+[AirBnBの創業ストーリー本](https://www.amazon.co.jp/gp/product/B071F38ZXZ/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B071F38ZXZ&linkCode=as2&tag=ryopenguin-22&linkId=ff9daa37e81db3fe14611cb4910bb457)がかなり好きなのだが、読むとこのサービスがいかにAirBnBの価値観と整合しているかがわかる。同時に収益もなんとかしているし、、プロダクトマネージャー、めっちゃ優秀なんだろうな。。
 
 ## [Streamlit](https://www.streamlit.io/)
 データを用いたアプリケーションがほぼPythonだけで作れるOSS。機械学習の結果のレポートとかにも良さそう。フロントはBootstrapとReactベースでほぼカスタマイズ不可。ちょっとしたレポートやデータならこれで十分そう。触ってみる。
