@@ -15,9 +15,10 @@ socialImage: "/media/everydaynews.jpg"
 ## [Houseparty](https://thebridge.jp/2020/04/houseparty-growth-generation-4-reasons)
 複数人で利用できるビデオチャットサービス。1対nに特化したUXらしい。これからこういうの流行るんだろうな。記事中に書いてあったが「カメラは天井に向け、音声だけ共有」とある。なのでボイスチャットが簡単にできるWFHでも捗りそう。ビデオチャット常時オンはちょっと監視感があってキツい。
 
-ということをゲームチャットのDiscordを題材に[書いていらっしゃる方がいた](https://mizchi.hatenablog.com/entry/2019/06/11/114420?_ga=2.33502654.1210834711.1563428933-1819834123.1550932367))。
-	- Discordっぽく
-	- オフィスでパッと使える
+ということをゲームチャットのDiscordを題材に[書いていらっしゃる方がいた](https://mizchi.hatenablog.com/entry/2019/06/11/114420?_ga=2.33502654.1210834711.1563428933-1819834123.1550932367)。
+
+- Discordっぽく
+- オフィスでパッと使える
 みたいなアプリ/サービスあったら良さそう。Slackと連携するとか。Slack callはあんまり品質よくない気がするのだけど、どうでしょうか。ほんとボイスチャットだけ常時接続なやつ。
 
 ## [AirBnBのオンライン体験](https://www.airbnb.jp/s/experiences/online)
