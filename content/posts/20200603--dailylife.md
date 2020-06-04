@@ -11,7 +11,7 @@ description: "近況を振り返る。主には人工知能学会。"
 socialImage: "/media/movable-type.jpg"
 ---
 
-![osha image]("/media/movable-type.jpg")
+![oshaimage](/media/movable-type.jpg)
 
 # 近況の報告
 
