@@ -3,10 +3,11 @@ title: 今日の気になったニュースとサービス
 date: "2020-06-04 10:00:00"
 template: "post"
 draft: false
-slug: "daily-life-with-covid"
+slug: "ocr-and-courses"
 category: "News"
 tags:
-  - "Poem"
+  - "News"
+  - "Service"
 description: "久々に再開。おもしろプロダクトを引き続き追いかけていく。文字スキャンとEラーニング立ち上げ。Shopifyアプリって流行りそうな気がしている"
 socialImage: "/media/movable-type.jpg"
 ---
