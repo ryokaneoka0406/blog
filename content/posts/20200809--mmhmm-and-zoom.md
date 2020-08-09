@@ -14,6 +14,7 @@ socialImage: "/media/mmhmm.png"
 
 ## はじめに
 mmhmmのベータテスターにinviteされたぞ！ということで使ってみた。
+ちなみに本記事は実験的に[note](https://note.com/ryopenguin)にも転載してみる。
 
 ## そもそもmmhmmって
 Evernoteを立ち上げたPhil Libinの会社「[All Turtles](https://www.all-turtles.com/)」の新プロダクト。オンラインプレゼンをかっこよくする（後述）。現在はベータ版で、ティザーサイトから応募した人を少しずつ招待してプロダクトの改善を行っている。
