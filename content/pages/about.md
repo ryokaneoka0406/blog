@@ -6,28 +6,41 @@ socialImage: "/media/image-2.jpg"
 
 ![自分について](/media/image-2.jpg)
 
+## Who I am
+- Product manager(HR SaaS Company) @ Tokyo, Japan
+- Indie developer
+- Loving digital products, SaaS
+
 ## 何者か
-- 都内の某企業でプロダクトオーナー/プロダクトマネージャーをしている人です。92年生まれ。
+- 都内の某企業でプロダクトマネージャーをしている人です。
 - いろんなサービス考えたり作ったりするのが好き。
-- 趣味はへっぽこなりに個人開発と統計関連のお勉強。デザインも興味あり。
-- AI！ビッグデータ！みたいな流行りモノより渋いサービスが好き。
+- 最近の関心はSaaS、業務系ツール。
 
 ## 興味分野や好きなこと
 - クラフトビール
+- 料理
 - 音楽（DJ、カホン）
 - スタートアップ、海外ウェブサービス
-- 統計
-- 投資（アルゴリズムトレードやってみたい！）
 - オープンデータ・地理関連データ
 
 ## 職歴
 - 1.メーカー向けIoT新製品開発コンサル
 - 2.広告代理店向けDMP導入＋デジタルマーケティングコンサル
 - 3.機械学習導入コンサル
-- 4.自社製品のプロダクトオーナー/プロダクトマネージャー（現在）
+- 4.AI製品のプロダクトオーナー/プロダクトマネージャー
+- 5.HR系SaaSのプロダクトマネージャー（現在）
 
-## 触れるツール群
-- （特にウェブ関連の）データ分析・可視化
+## よく触っているツール群
+- 個人開発
+  - Django/Python
+  - Vue/Nuxt
+  - Ruby/Rails
+  - heroku
+  - Google Cloud Platform
+  - Adobe XD
+  - Figma
+  - Whimsical
+- データ分析・可視化
   - Google Analytics
   - Google Tag Manager
   - Google Data Portal
@@ -38,17 +51,10 @@ socialImage: "/media/image-2.jpg"
   - Facebook広告
   - Instagram広告
   - Google広告
-- 個人開発（へっぽこ）
-  - Django/Python
-  - React
-  - heroku（雰囲気でやってる）
-- デザイン（へっぽこ）
-  - Adobe XD
-  - Figma
 
 ## 資格
 - 上級ウェブ解析士
 - Deep Learning For General 2018
 - 統計検定2級
 - 図書館司書
-- 通信販売酒類小売業
+- ~~通信販売酒類小売業~~（廃業）
