@@ -15,20 +15,24 @@ socialImage: "/media/image2_portfolio.jpg"
 
 - 画像をアップロードすると白黒化か顔判別＋モザイク処理ができるウェブサービス
 - 開発期間：2ヶ月
-- 使用技術：Django/OpenCV/heroku/Bootstrap4/Cloudflare/Google cloud storage
+- 使用技術：
+  - Django/Bootstrap/OpenCV/heroku/Google cloud storage
 
 ### [つい雲](https://twikumo.netlify.app/)
 
 - 任意のツイッターアカウントのツイートでワードクラウドが作れるウェブサービス
 - 開発期間：2ヶ月
-- 使用技術：Vue.js/Bootstrap-vue/Netlify/Python/Google Cloud Functions
+- 使用技術：
+  - Vue.js/Bootstrap-vue/Netlify/Python/Google Cloud Functions
 
-## 2人でやっていたサービス
+## 友人とやっていたサービス
 
-### beerletter
+### beerletter（現在はサービス終了）
 
-- クラフトビールのサブスクリプションサービス。同僚だったエンジニアと2人で立ち上げ。国産クラフトビールに限ってやってました（現在はサービス終了）
-- 倉庫開拓、酒販免許取得、オペレーション設計、ブルワリー営業などなどなど、全部自分でやってみた。道半ばだけど楽しいし好きなビールに出会えて最高だった。リアルのサービスまたいつかやりたい。
+- クラフトビールのサブスクリプションサービス。同僚だったエンジニアと2人で立ち上げ。
+- 国産クラフトビールに限って、買い付けから販売まで。
+- 倉庫開拓、酒販免許取得、オペレーション設計、ブルワリー営業などなどなど、全部自分でやってみた。
+- 道半ばだったけど楽しかったし好きなビールに出会えて最高だった。リアルのサービスまたいつかやりたい。
 
 ## 執筆歴
 
